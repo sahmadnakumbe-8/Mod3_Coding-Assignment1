@@ -1,0 +1,35 @@
+p {
+	color; 
+}
+
+h1 {
+	text-align; center;
+}
+.s1 {
+	text-align: center;
+    background-color:;
+    border: 1px solid black;
+    padding: 5px 5px;
+    width: 120px;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.s2 {
+	text-align: center;
+    background-color: ;
+    border: 1px solid black;
+    padding: 5px 5px;
+    width: 120px;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.s3 {
+	text-align: center;
+    background-color: ;
+    border: 1px solid black;
+    padding: 5px 5px;
+    width: 120px;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+}
